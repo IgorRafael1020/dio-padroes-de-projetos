@@ -2,5 +2,5 @@
 Serão abordados dois projetos com os seguintes padrões de desenvolvimento em Java:
 * Singleton
 * Strategy
-* Facade
+* Facade  
 Um dos projetos será desenvolvido com "java puro" e o outro com Spring Boot.
